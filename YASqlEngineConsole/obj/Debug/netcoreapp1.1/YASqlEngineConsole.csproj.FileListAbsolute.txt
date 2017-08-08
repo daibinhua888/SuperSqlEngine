@@ -1,0 +1,11 @@
+C:\Users\z\Documents\Visual Studio 2017\Projects\YASqlEngine\YASqlEngineConsole\bin\Debug\netcoreapp1.1\YASqlEngineConsole.deps.json
+C:\Users\z\Documents\Visual Studio 2017\Projects\YASqlEngine\YASqlEngineConsole\bin\Debug\netcoreapp1.1\YASqlEngineConsole.runtimeconfig.json
+C:\Users\z\Documents\Visual Studio 2017\Projects\YASqlEngine\YASqlEngineConsole\bin\Debug\netcoreapp1.1\YASqlEngineConsole.runtimeconfig.dev.json
+C:\Users\z\Documents\Visual Studio 2017\Projects\YASqlEngine\YASqlEngineConsole\bin\Debug\netcoreapp1.1\YASqlEngineConsole.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\YASqlEngine\YASqlEngineConsole\bin\Debug\netcoreapp1.1\YASqlEngineConsole.pdb
+C:\Users\z\Documents\Visual Studio 2017\Projects\YASqlEngine\YASqlEngineConsole\bin\Debug\netcoreapp1.1\YASqlEngine.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\YASqlEngine\YASqlEngineConsole\bin\Debug\netcoreapp1.1\YASqlEngine.pdb
+C:\Users\z\Documents\Visual Studio 2017\Projects\YASqlEngine\YASqlEngineConsole\obj\Debug\netcoreapp1.1\YASqlEngineConsole.csprojResolveAssemblyReference.cache
+C:\Users\z\Documents\Visual Studio 2017\Projects\YASqlEngine\YASqlEngineConsole\obj\Debug\netcoreapp1.1\YASqlEngineConsole.AssemblyInfo.cs
+C:\Users\z\Documents\Visual Studio 2017\Projects\YASqlEngine\YASqlEngineConsole\obj\Debug\netcoreapp1.1\YASqlEngineConsole.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\YASqlEngine\YASqlEngineConsole\obj\Debug\netcoreapp1.1\YASqlEngineConsole.pdb

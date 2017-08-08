@@ -1,0 +1,14 @@
+C:\Users\z\Documents\Visual Studio 2017\Projects\YASqlEngine\YASqlEngineTests\bin\Debug\netcoreapp1.1\YASqlEngineTests.deps.json
+C:\Users\z\Documents\Visual Studio 2017\Projects\YASqlEngine\YASqlEngineTests\bin\Debug\netcoreapp1.1\YASqlEngineTests.runtimeconfig.json
+C:\Users\z\Documents\Visual Studio 2017\Projects\YASqlEngine\YASqlEngineTests\bin\Debug\netcoreapp1.1\YASqlEngineTests.runtimeconfig.dev.json
+C:\Users\z\Documents\Visual Studio 2017\Projects\YASqlEngine\YASqlEngineTests\obj\Debug\netcoreapp1.1\YASqlEngineTests.csprojResolveAssemblyReference.cache
+C:\Users\z\Documents\Visual Studio 2017\Projects\YASqlEngine\YASqlEngineTests\obj\Debug\netcoreapp1.1\YASqlEngineTests.AssemblyInfo.cs
+C:\Users\z\Documents\Visual Studio 2017\Projects\YASqlEngine\YASqlEngineTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\YASqlEngine\YASqlEngineTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\YASqlEngine\YASqlEngineTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\YASqlEngine\YASqlEngineTests\bin\Debug\netcoreapp1.1\YASqlEngineTests.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\YASqlEngine\YASqlEngineTests\bin\Debug\netcoreapp1.1\YASqlEngineTests.pdb
+C:\Users\z\Documents\Visual Studio 2017\Projects\YASqlEngine\YASqlEngineTests\bin\Debug\netcoreapp1.1\YASqlEngine.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\YASqlEngine\YASqlEngineTests\bin\Debug\netcoreapp1.1\YASqlEngine.pdb
+C:\Users\z\Documents\Visual Studio 2017\Projects\YASqlEngine\YASqlEngineTests\obj\Debug\netcoreapp1.1\YASqlEngineTests.dll
+C:\Users\z\Documents\Visual Studio 2017\Projects\YASqlEngine\YASqlEngineTests\obj\Debug\netcoreapp1.1\YASqlEngineTests.pdb
